@@ -1,0 +1,9 @@
+Package: artoolkit
+Version: 2.72.1-0
+Architecture: amd64
+Maintainer: Bill Morris <bill@neautomation.com>
+Installed-Size: 66
+Section: misc
+Priority: extra
+Homepage: http://ros.org/wiki/artoolkit
+Description: Artoolkit Library (wrapper)
